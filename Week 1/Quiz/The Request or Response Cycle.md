@@ -1,50 +1,50 @@
 1.
 Question 1
 When a browser connects to a web server to retrieve a document, what default TCP/IP port is used?
-Ans: 80
+# Ans: 80
 
 2.
 Question 2
 When a browser connects to a web server to retrieve a document, what command is sent to the server?
-Ans: GET
+# Ans: GET
 
 3.
 Question 3
 What does the second "T" of HTTP stand for?
-Ans: Transfer
+# Ans: Transfer
 
 4.
 Question 4
 Which of the following is NOT part of a Uniform Resource Locator:
-Ans: Operating System
+# Ans: Operating System
 
 5.
 Question 5
 Which HTML tag typically generates a request to retrieve a document from the server when it is clicked?
-Ans: a
+# Ans: a
 
 6.
 Question 6
 What standards organization publishes many of the documents that describe the protocols we use on the Internet?
-Ans: IETF
+# Ans: IETF
 
 7.
 Question 7
 Which of the HTTP headers does the browser look at to decide how to display the retrieved document?
-Ans: Content-type
+# Ans: Content-type
 
 Question 8
 In Python, what is the difference between an open file and a socket?
-Ans: A socket can be simultaneously read and written
+# Ans: A socket can be simultaneously read and written
 
 Question 9
 What must happen before a client can open a socket?
-Ans: A server must be running that is listening for socket connections
+# Ans: A server must be running that is listening for socket connections
 
 10.
 Question 10
 What port is used for Simple Mail Transfer Protocol (SMTP)?
-Ans: 25
+# Ans: 25
 
 11.
 Question 11
