@@ -49,47 +49,47 @@ What port is used for Simple Mail Transfer Protocol (SMTP)?
 11.
 Question 11
 What port is used by default for Secure HTTP (https)?
-Ans: 443
+# Ans: 443
 
 12.
 Question 12
 What is the topic of the Internet Engineering Task Force document RFC2616?
-Ans: HTTP - HyperText Transfer Protocol
+# Ans: HTTP - HyperText Transfer Protocol
 
 13.
 Question 13
 What is the topic of the Internet Engineering Task Force document RFC42?
-Ans: Message Data Types
+# Ans: Message Data Types
 
 14.
 Question 14
 Which of these Internet Engineering Task Force (IETF) documents described the "Internet Control Message Protocol"?
-Ans: RFC792
+# Ans: RFC792
 
 15.
 Question 15
 What is the purpose of encode() in the socket1.py code:
-Ans: To convert the data to UTF-8 before sending
+# Ans: To convert the data to UTF-8 before sending
 
 16.
 Question 16
 What can't you see in the Browser Developer Mode for most browsers?
-Ans: The code that runs in the server
+# Ans: The code that runs in the server
 
 17.
 Question 17
 In the sample server.py code, which function call actually waits for incoming socket connection requests?
-Ans: listen()
+# Ans: listen()
 
 18.
 Question 18
 In the sample server.py code, which function call will fail if another application is already using a port?
-Ans: bind()
+# Ans: bind()
 
 19.
 Question 19
 Which Python library makes it very easy to make HTTP requests from Python?
-Ans: urllib
+# Ans: urllib
 
 
 
